@@ -1,4 +1,4 @@
-# Supervised-Machine-Learning-Project-1-Public
+# Parkinson
 
 Supervised Machine Learning : Classification
 
